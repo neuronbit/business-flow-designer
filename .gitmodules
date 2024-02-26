@@ -1,0 +1,18 @@
+[submodule "lowcode-businessflow-designer"]
+	path = lowcode-businessflow-designer
+	url = git@github.com:neuronbit/lowcode-businessflow-designer.git
+[submodule "lowcode-businessflow-material"]
+	path = lowcode-businessflow-material
+	url = git@github.com:neuronbit/lowcode-businessflow-material.git
+[submodule "lowcode-engine"]
+	path = lowcode-engine
+	url = git@github.com:neuronbit/lowcode-engine.git
+[submodule "lowcode-graph"]
+	path = lowcode-graph
+	url = git@github.com:neuronbit/lowcode-graph.git
+[submodule "split-pane-react"]
+	path = split-pane-react
+	url = git@github.com:neuronbit/split-pane-react.git
+[submodule "lowcode-engine-ext"]
+	path = lowcode-engine-ext
+	url = git@github.com:neuronbit/lowcode-engine-ext.git
