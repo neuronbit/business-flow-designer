@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lowcode-businessflow-designer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lowcode-businessflow-material" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lowcode-engine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lowcode-engine-ext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lowcode-graph" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/split-pane-react" vcs="Git" />
+  </component>
+</project>
