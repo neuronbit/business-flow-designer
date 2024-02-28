@@ -13,3 +13,6 @@
 [submodule "lowcode-engine-ext"]
 	path = lowcode-engine-ext
 	url = git@github.com:neuronbit/lowcode-engine-ext.git
+[submodule "split-pane-react"]
+	path = split-pane-react
+	url = git@github.com:neuronbit/split-pane-react.git
