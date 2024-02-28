@@ -1,0 +1,26 @@
+{
+  "name": "business-flow-designer",
+  "version": "1.0.0",
+  "description": "Designer for business flow based on antd x6 and ali lowcode engine",
+  "workspaces": [
+    "split-pane-react",
+    "lowcode-engine",
+    "lowcode-engine-ext",
+    "lowcode-graph",
+    "lowcode-businessflow-designer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/neuronbit/business-flow-designer.git"
+  },
+  "keywords": [
+    "flow",
+    "designer"
+  ],
+  "author": "Shunyun Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neuronbit/business-flow-designer/issues"
+  },
+  "homepage": "https://github.com/neuronbit/business-flow-designer#readme"
+}
